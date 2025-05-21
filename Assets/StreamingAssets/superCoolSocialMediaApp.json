@@ -1,0 +1,89 @@
+{
+    "posts": [
+        {
+            "user": {
+                "profileName": "Sir Meowington",
+                "profilePicture": "profiles/1000YardStare.png",
+                "onlineStatus": true,
+                "lastSeen": "now",
+                "following": false
+            },
+            "post": {
+                "postPicture": "posts/beach.jpeg",
+                "caption": "I can haz sunset nomz?",
+                "commentCount": 28,
+                "likeCount": 122,
+                "shareCount": 19,
+                "liked": true
+            }
+        },
+        {
+            "user": {
+                "profileName": "Meowk Vader",
+                "profilePicture": "profiles/fatty.jpg",
+                "onlineStatus": false,
+                "lastSeen": "37 minutes ago",
+                "following": false
+            },
+            "post": {
+                "postPicture": "posts/climb.jpg",
+                "caption": "Climbed big hooman hill! Much wow, very pant",
+                "commentCount": 9,
+                "likeCount": 88,
+                "shareCount": 11,
+                "liked": false
+            }
+        },
+        {
+            "user": {
+                "profileName": "Chewbarka",
+                "profilePicture": "profiles/dumbo.jpg",
+                "onlineStatus": true,
+                "lastSeen": "now",
+                "following": false
+            },
+            "post": {
+                "postPicture": "posts/spaghetti.jpg",
+                "caption": "Spaghetti sniff? \nZoomies activate!",
+                "commentCount": 42,
+                "likeCount": 205,
+                "shareCount": 30,
+                "liked": false
+            }
+        },
+        {
+            "user": {
+                "profileName": "Whiskerella",
+                "profilePicture": "profiles/smarty.jpg",
+                "onlineStatus": false,
+                "lastSeen": "2 hours ago",
+                "following": true
+            },
+            "post": {
+                "postPicture": "posts/coffee.jpg",
+                "caption": "Purrfect coffee-book fort. No touchy, hooman",
+                "commentCount": 12,
+                "likeCount": 95,
+                "shareCount": 5,
+                "liked": false
+            }
+        },
+        {
+            "user": {
+                "profileName": "Princess Purrlina",
+                "profilePicture": "profiles/princess.jpg",
+                "onlineStatus": false,
+                "lastSeen": "10 minutes ago",
+                "following": false
+            },
+            "post": {
+                "postPicture": "posts/laptop.jpg",
+                "caption": "Hooman left the laptop open... I now run the company \n #CEOofNaps",
+                "commentCount": 47,
+                "likeCount": 312,
+                "shareCount": 9,
+                "liked": false
+            }
+        }
+    ]
+}
